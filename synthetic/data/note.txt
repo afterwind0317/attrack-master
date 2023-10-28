@@ -1,0 +1,5 @@
+        workerN = 120
+        taskN = 800
+        rN = 10
+        classN = 2
+        s = 0.04453
